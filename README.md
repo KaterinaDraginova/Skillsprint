@@ -17,3 +17,11 @@ That's why SkillSprint requires a database system that streamlines event managem
 ## Database Schema Overview
 
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/ab6f2343-f161-40de-8691-6a562613f3e8" />
+
+
+
+## Events Dashboard
+
+The dashboard displays all specified event areas, including upcoming sessions, the average rating (based on at least 10 participants), and other general information.
+
+![image](https://github.com/user-attachments/assets/daef1498-2773-47c0-857c-ecba2bf07328)
