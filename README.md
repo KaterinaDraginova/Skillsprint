@@ -25,3 +25,32 @@ That's why SkillSprint requires a database system that streamlines event managem
 The dashboard displays all specified event areas, including upcoming sessions, the average rating (based on at least 10 participants), and other general information.
 
 ![image](https://github.com/user-attachments/assets/daef1498-2773-47c0-857c-ecba2bf07328)
+
+
+## Entities Overview
+
+- **Speakers**  
+  Stores details about event speakers
+
+- **Sessions**  
+  Represents individual sessions conducted by speakers
+
+- **Attendees**  
+  Contains information about event participants
+
+- **Registrations**  
+  Acts as a bridge between attendees and events
+
+- **Reviews**  
+  Captures attendee ratings
+
+- **Venues**  
+  Stores details about locations where sessions are held
+
+- **Schedule**  
+  Links sessions, venues, and event timings
+
+- **Schedule**
+  Links sessions, venues, and event timings
+
+By leveraging structured, normalized approach, the schema ensures efficient data retrieval, integrity, and scalability..
