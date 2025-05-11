@@ -1,6 +1,6 @@
-# Query finding the capacity of the venue that
-# hosted the second-highest number of sessions
-# of a specific type. In this case, the session type is Webinar
+-- Query finding the capacity of the venue that
+-- hosted the second-highest number of sessions
+-- of a specific type. In this case, the session type is Webinar
 
 WITH top_webinar_hosts AS (
     SELECT
