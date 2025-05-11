@@ -11,3 +11,9 @@ As **SkillSprint** continues to grow, managing the logistical details of these e
 That's why SkillSprint requires a database system that streamlines event management and secures data integrity. This system enables the company to efficiently organize its events, monitor speakers, track attendee registrations, and gather feedback.
 
 **SkillSprint** is also exploring potential partnerships with local businesses to enhance the attendee experience. However, their immediate priority is leveraging collected data to gain meaningful insights into their operations. They aim to understand speaker popularity, attendance trends, and feedback to improve future events and make data-driven decisions.
+
+
+
+## Database Schema Overview
+
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/ab6f2343-f161-40de-8691-6a562613f3e8" />
