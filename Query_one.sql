@@ -1,4 +1,4 @@
-- Update to make titles easier to observe based on the speaker's area of expertise
+-- Update to make titles easier to observe based on the speaker's area of expertise
 
 UPDATE sessions 
 SET sessions.title = sessions.title + ' (' + speakers.expertise_area + ')'
